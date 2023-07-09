@@ -1,3 +1,4 @@
 # Courier
-Postman Collection mevcuttur.
-Postgre için docker-compose.yml dosyasının çalıştırılması gerekmektedir.
+Postman Collection dosya içerisinde mevcuttur.
+Postgres için docker-compose.yml dosyasının çalıştırılması gerekmektedir.
+Context Path : migrosApi
