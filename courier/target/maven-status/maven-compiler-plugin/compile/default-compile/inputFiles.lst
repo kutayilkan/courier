@@ -1,0 +1,13 @@
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/business/abstracts/CourierService.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/entities/concretes/CourierRequestModel.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/core/utilities/ProjectHelper.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/entities/dtos/CourierLocation.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/controller/StatusController.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/entities/concretes/Courier.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/CourierApplication.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/core/config/JacksonConfiguration.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/controller/CourierController.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/core/config/OpenApiConfig.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/business/concretes/CourierManager.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/dataAccess/abstracts/CourierDao.java
+/Users/melikkutayilkan/Desktop/courier/src/main/java/com/migros/courier/entities/concretes/Store.java
